@@ -1,7 +1,7 @@
 # TipSplitCal
-TipSplitCal - Mobile Application Development
 
-Created a Android Application using Java.
+
+## About
  
 This Android application, "TipSplitCal," is a simple and convenient tool for dividing expenses among a group of people. Whether you're splitting a dinner bill, rent, or vacation costs, Split It makes it easy to fairly distribute the amount among your friends or colleagues.
 
